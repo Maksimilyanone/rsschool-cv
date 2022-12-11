@@ -7,3 +7,4 @@ I like to acquire new knowledge. I study front-end development. I like to work i
 Skils:
 JavaSript
 HTML
+Java
